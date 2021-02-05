@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;basicsjava.Chromepet.java&apos; to &apos;MyClass.java&apos;&#x0D;&#x0A;- Original project: &apos;Java_Basics&apos;&#x0D;&#x0A;- Original element: &apos;basicsjava.Chromepet.java&apos;&#x0D;&#x0A;- Renamed element: &apos;basicsjava.MyClass.java&apos;" description="Rename compilation unit &apos;Chromepet.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;basicsjava{Chromepet.java" name="MyClass.java" references="false" stamp="1609069430869" version="1.0"/>
+</session>

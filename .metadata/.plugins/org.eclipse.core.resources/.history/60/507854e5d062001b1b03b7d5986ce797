@@ -1,0 +1,29 @@
+package programming_basics;
+
+public class DivibleBy5_10_15 {
+
+	public static void main(String[] args) {
+
+		/*
+		 * Algorithim declare a number , mynum=450 check condition check 450%5==0 , if
+		 * false ,print not divisble true , check 450%10==0 , if false print notivisble
+		 * true,check 450%15==0, if false print notivisble
+		 */
+
+		int mynum = 450;
+		if (450 % 5 == 0) {
+			if (450 % 10 == 0) {
+				if (450 % 15 == 0) {
+					System.out.println("Print n=my number is divisble ");
+				} else {
+					System.out.println("Print n=my number is divisble ");
+				}
+			} else {
+				System.out.println("print not divisble");
+			}
+		} else {
+			System.out.println("print not divisble");
+		}
+	}
+
+}

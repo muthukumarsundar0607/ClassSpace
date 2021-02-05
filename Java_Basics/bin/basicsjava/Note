@@ -1,0 +1,55 @@
+Condition flow statements : checking the condition and executing the true or false statements
+
+**********************************************************************************************
+control flow statement :
+ 
+ 1, 2, 3,4 ,5 ,6 ,7 ,9, 10 - Muthu purse
+ 
+ scenario 1:  take 5 ruppee coin  -(condition )
+ 
+  1, 2, 3,4,5,6,7,8,9,10    - Pradeepa purse 
+ 
+ scenario 2:   which are less than 5 (condition)
+ 
+ 
+  1, 2, 3,4,5,6,7,8,9,10  - Vijay purpse 
+  
+  
+  scenario 3: which are more than 5  (condition )
+  
+  --- initialize ,  condition check , increment / decrement 
+  
+ 
+ for (intialize  ; condition ; increment decrement )
+ {
+
+ }
+ 
+ excute the for loop until condition get false
+ 
+ syntax: 
+ outside the while loop instialization ... 
+ while(condition){
+ statements 
+ statements 
+ statements 
+ statements 
+ increment/decrement;
+ }
+ 
+ 
+ 
+ 
+ ***************************************************************************************
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
